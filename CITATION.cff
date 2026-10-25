@@ -1,0 +1,51 @@
+cff-version: 1.2.0
+message: >-
+  This is a replication of Fomby, Ikeda & Loayza (2013). If you use it, please cite
+  the original paper (see preferred-citation) and, optionally, this repository.
+title: "Replication of Fomby, Ikeda & Loayza (2013): The Growth Aftermath of Natural Disasters"
+type: software
+authors:
+  - family-names: "Özdemir"
+    given-names: "Toprak"
+    affiliation: "Boğaziçi University"
+date-released: 2026-10-25
+url: "https://github.com/toprak-ozdemir/fomby-2013-disasters-replication"
+repository-code: "https://github.com/toprak-ozdemir/fomby-2013-disasters-replication"
+license: MIT
+keywords:
+  - replication
+  - natural disasters
+  - economic growth
+  - panel VAR
+  - bootstrap bias correction
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Fomby"
+      given-names: "Thomas"
+    - family-names: "Ikeda"
+      given-names: "Yuki"
+    - family-names: "Loayza"
+      given-names: "Norman V."
+  title: "The Growth Aftermath of Natural Disasters"
+  journal: "Journal of Applied Econometrics"
+  volume: 28
+  issue: 3
+  start: 412
+  end: 434
+  year: 2013
+  doi: "10.1002/jae.1273"
+references:
+  - type: data
+    authors:
+      - family-names: "Fomby"
+        given-names: "Thomas"
+      - family-names: "Ikeda"
+        given-names: "Yuki"
+      - family-names: "Loayza"
+        given-names: "Norman V."
+    title: "Replication package for: The Growth Aftermath of Natural Disasters"
+    publisher:
+      name: "Journal of Applied Econometrics Data Archive"
+    year: 2013
+    url: "http://qed.econ.queensu.ca/jae/2013-v28.3/fomby-ikeda-loayza/"
